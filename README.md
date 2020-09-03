@@ -1,0 +1,1 @@
+This is Arek's first git project!
